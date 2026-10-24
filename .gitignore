@@ -1,0 +1,33 @@
+# Java compiled files
+
+*.class
+
+# Maven build output
+
+target/
+
+# Eclipse workspace settings
+
+.metadata/
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA files
+
+.idea/
+*.iml
+
+# VS Code files
+
+.vscode/
+
+# Local environment and secrets
+
+.env
+.env.*
+!.env.example
+
+# Logs
+
+*.log
